@@ -2,11 +2,12 @@
 
 ## Objective
 
-This project is aimed to simulate an established and controlled enterprise Active Directory environment for simulating, detecting and monitoring all associated accounts, domaains, objetcs and devices in such network. The primary goal was to understand and utilize the Active Directory database from a Network Administrator and/ or Network Security Consultant perspective.
+This project is aimed to simulate an established and controlled enterprise Windows Server - Active Directory environment for simulating, detecting and monitoring all associated accounts, domaains, objetcs and devices in such network. The primary goal was to understand and utilize the Active Directory database from a Network Administrator and/ or Network Security Consultant perspective.
 
 ### Skills Learned
 
-- Elaborate understanding of AD functionality, practical application and best practices.
+- Elaborate understanding of AD functionality and best practices.
+- DNS and DC Configuration
 - Advanced in User and Group Management.
 - Proficient Security Management. (Including: Authencation, Authorization, Policies and Security Permissions.)
 - In depth knowledge of Group Policy Management and security vulnerabilities.
