@@ -25,5 +25,5 @@ Example below.
   ## Resources
 
   - TryHackMe
-  - Under the Wire
+  - <a href="https://underthewire.tech/century">Under The Wire</a>
   - YouTube
