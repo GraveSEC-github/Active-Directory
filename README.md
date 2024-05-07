@@ -4,6 +4,15 @@
 
 This project is aimed to simulate an established and controlled Enterprise Windows Server - Active Directory Environment for simulating, detecting and monitoring all associated accounts, domaains, objetcs and devices in such network. The primary goal was to understand and utilize the Active Directory database from a Network Administrator and/ or Network Security Consultant perspective.
 
+- Security Information and Event Management (SIEM) system for log ingestion and analysis.
+- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
+- Telemetry generation tools to create realistic network traffic and attack scenarios.
+
+## Walktrough Steps
+Example below.
+
+*Ref 1: Network Diagram*
+
 ### Skills Learned
 
 - Elaborate understanding of AD functionality and best practices.
@@ -13,17 +22,8 @@ This project is aimed to simulate an established and controlled Enterprise Windo
 - In depth knowledge of Group Policy Management and security vulnerabilities.
 - Active Directory Replication and Disaster Recovery
 
-### Tools Used
+  ## Resources
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
-
-## Walktrough Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
-
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
+  - TryHackMe
+  - Under the Wire
+  - YouTube
